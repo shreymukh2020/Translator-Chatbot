@@ -8,7 +8,7 @@
 ![Project Logo](https://github.com/shreymukh2020/Translator-Chatbot-GPT-4/blob/main/App_screenshot_1.png)
 
 ## Description 📝
-A powerful language translation application built using Streamlit and OpenAI's GPT-4 model. This tool seamlessly translates text between multiple languages, breaking language barriers effectively.
+A powerful language translation application built using Streamlit and OpenAI's GPT-4o model. This tool seamlessly translates text between multiple languages, breaking language barriers effectively.
 
 ## Features 🌟
 - **Multi-language Support**: Translate between various languages including English, Spanish, French, Chinese, Japanese, and more.
