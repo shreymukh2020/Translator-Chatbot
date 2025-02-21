@@ -2,10 +2,10 @@
 
 # Language Translation Assistant 🌍
 
-![Project Logo](https://github.com/shreymukh2020/Translator-Chatbot-GPT-4o/blob/main/App_screenshot_1.png)
-
-
 ![Project Logo](https://github.com/shreymukh2020/Translator-Chatbot-GPT-4o/blob/main/App_screenshot_2.png)
+
+
+![Project Logo](https://github.com/shreymukh2020/Translator-Chatbot-GPT-4o/blob/main/App_screenshot_1.png)
 
 ## Description 📝
 A powerful language translation application built using Streamlit and OpenAI's GPT-4 model. This tool seamlessly translates text between multiple languages, breaking language barriers effectively.
