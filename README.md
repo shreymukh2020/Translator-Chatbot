@@ -38,9 +38,12 @@ To run the application, make sure you have your OpenAI API key configured in a `
     "OPENAI_API_KEY": "your-openai-api-key-here"
 }
 ```
-## Key files:
-app.py: The main application script containing the UI and translation logic.
-config.json: Configuration file for your OpenAI API key.
+## Code Overview 📋
+The application uses `streamlit` for the web interface and `langchain` to handle interactions with the OpenAI model.
+
+### Key files:
+- `app.py`: The main application script containing the UI and translation logic.
+- `config.json`: Configuration file for your OpenAI API key.
 
 Then, execute the following command:
 
