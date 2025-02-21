@@ -18,8 +18,8 @@ try:
 except Exception as e:
     st.error(f"Error loading OpenAI API key: {e}")
 
-# Initialize OpenAI LLM with GPT-4
-llm = ChatOpenAI(model="gpt-4", temperature=0, max_tokens=512)
+# Initialize OpenAI LLM with GPT-4o
+llm = ChatOpenAI(model="gpt-4o", temperature=0, max_tokens=512)
 
 def translate(input_language, output_language, input_text):
     """Translation function using LangChain."""
